@@ -1,0 +1,26 @@
+{
+    "name": "agrotrack/app",
+    "type": "project",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://repo.packagist.org"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+        "laravel/framework": "^11.0",
+        "livewire/livewire": "^3.4",
+        "barryvdh/laravel-dompdf": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Database\\Seeders\\": "database/seeders/",
+            "Database\\Factories\\": "database/factories/"
+        }
+    },
+    "config": {
+        "secure-http": false
+    }
+}
