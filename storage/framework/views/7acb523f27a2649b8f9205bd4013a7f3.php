@@ -1,3 +1,6 @@
+
+
+<?php $__env->startSection('content'); ?>
 <div class="space-y-4">
     <div>
         <h2 class="text-lg font-bold text-gray-800">Inicio</h2>
@@ -12,7 +15,7 @@ $__split = function ($name, $params = []) {
 
 $__key = null;
 
-$__key ??= \Livewire\Features\SupportCompiledWireKeys\SupportCompiledWireKeys::generateKey('lw-3245979098-0', $__key);
+$__key ??= \Livewire\Features\SupportCompiledWireKeys\SupportCompiledWireKeys::generateKey('lw-3980105842-0', $__key);
 
 $__html = app('livewire')->mount($__name, $__params, $__key);
 
@@ -26,4 +29,6 @@ unset($__split);
 if (isset($__slots)) unset($__slots);
 ?>
 </div>
-<?php /**PATH C:\tmp\agrotrack\resources\views/livewire/dashboard.blade.php ENDPATH**/ ?>
+<?php $__env->stopSection(); ?>
+
+<?php echo $__env->make('layouts.app', array_diff_key(get_defined_vars(), ['__data' => 1, '__path' => 1]))->render(); ?><?php /**PATH C:\2023\APPs\agrotrack-1\resources\views\dashboard.blade.php ENDPATH**/ ?>

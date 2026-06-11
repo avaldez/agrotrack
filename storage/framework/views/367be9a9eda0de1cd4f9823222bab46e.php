@@ -66,4 +66,4 @@
         </div>
     <?php endif; ?><?php if(\Livewire\Mechanisms\ExtendBlade\ExtendBlade::isRenderingLivewireComponent()): ?><!--[if ENDBLOCK]><![endif]--><?php endif; ?>
 </div>
-<?php /**PATH C:\tmp\agrotrack\resources\views/livewire/estadisticas-inicio.blade.php ENDPATH**/ ?>
+<?php /**PATH C:\2023\APPs\agrotrack-1\resources\views/livewire/estadisticas-inicio.blade.php ENDPATH**/ ?>

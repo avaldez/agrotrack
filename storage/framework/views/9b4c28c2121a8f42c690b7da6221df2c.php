@@ -14,4 +14,4 @@
             $__env->endSlot();
         }
         ?>
-    <?php echo $__env->renderComponent(); ?><?php /**PATH C:\tmp\agrotrack\storage\framework\views/4943bc92ebba41e8b0e508149542e0ad.blade.php ENDPATH**/ ?>
+    <?php echo $__env->renderComponent(); ?><?php /**PATH C:\2023\APPs\agrotrack-1\storage\framework\views/f7c29b22c1a51c7cd7168f60bd430f61.blade.php ENDPATH**/ ?>

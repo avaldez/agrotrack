@@ -175,4 +175,4 @@ unset($__errorArgs, $__bag); ?><?php if(\Livewire\Mechanisms\ExtendBlade\ExtendB
         <?php endif; ?><?php if(\Livewire\Mechanisms\ExtendBlade\ExtendBlade::isRenderingLivewireComponent()): ?><!--[if ENDBLOCK]><![endif]--><?php endif; ?>
     </div>
 </div>
-<?php /**PATH C:\tmp\agrotrack\resources\views/livewire/campo/gestion-productos.blade.php ENDPATH**/ ?>
+<?php /**PATH C:\2023\APPs\agrotrack-1\resources\views\livewire\campo\gestion-productos.blade.php ENDPATH**/ ?>

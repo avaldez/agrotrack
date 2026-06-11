@@ -33,4 +33,4 @@
     </div>
 </body>
 </html>
-<?php /**PATH C:\tmp\agrotrack\resources\views/pwa/offline.blade.php ENDPATH**/ ?>
+<?php /**PATH C:\2023\APPs\agrotrack-1\resources\views/pwa/offline.blade.php ENDPATH**/ ?>

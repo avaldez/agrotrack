@@ -32,4 +32,4 @@
         </div>
     </body>
 </html>
-<?php /**PATH C:\tmp\agrotrack\vendor\laravel\framework\src\Illuminate\Foundation\Exceptions/views/minimal.blade.php ENDPATH**/ ?>
+<?php /**PATH C:\2023\APPs\agrotrack-1\vendor\laravel\framework\src\Illuminate\Foundation\Exceptions\views\minimal.blade.php ENDPATH**/ ?>

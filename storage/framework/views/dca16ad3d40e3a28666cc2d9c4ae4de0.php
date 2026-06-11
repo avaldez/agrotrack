@@ -64,4 +64,4 @@
     </div>
 </body>
 </html>
-<?php /**PATH C:\tmp\agrotrack\resources\views/auth/login.blade.php ENDPATH**/ ?>
+<?php /**PATH C:\2023\APPs\agrotrack-1\resources\views\auth\login.blade.php ENDPATH**/ ?>
